@@ -55,7 +55,7 @@ class BirdsController < ApplicationController
     render plain: "Hello #{@birds[3].name}"
   end
 end
-```
+``` 
 
 In the browser, this displays as:
 
